@@ -1,0 +1,7 @@
+C:\Users\selman\source\repos\LogProducer\LogProducer\bin\Debug\LogProducer.exe.config
+C:\Users\selman\source\repos\LogProducer\LogProducer\bin\Debug\LogProducer.exe
+C:\Users\selman\source\repos\LogProducer\LogProducer\bin\Debug\LogProducer.pdb
+C:\Users\selman\source\repos\LogProducer\LogProducer\obj\Debug\LogProducer.csprojAssemblyReference.cache
+C:\Users\selman\source\repos\LogProducer\LogProducer\obj\Debug\LogProducer.csproj.CoreCompileInputs.cache
+C:\Users\selman\source\repos\LogProducer\LogProducer\obj\Debug\LogProducer.exe
+C:\Users\selman\source\repos\LogProducer\LogProducer\obj\Debug\LogProducer.pdb

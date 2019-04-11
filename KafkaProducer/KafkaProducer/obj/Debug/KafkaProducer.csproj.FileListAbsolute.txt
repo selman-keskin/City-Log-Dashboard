@@ -1,0 +1,9 @@
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.exe.config
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.exe
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.pdb
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\bin\Debug\kafka-net.dll
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.csprojAssemblyReference.cache
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.csproj.CoreCompileInputs.cache
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.csproj.CopyComplete
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.exe
+C:\Users\selman\source\repos\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.pdb
