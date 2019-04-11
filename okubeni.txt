@@ -1,0 +1,46 @@
+
+//Mysql de log tablosu oluşturulur
+CREATE TABLE `log_table` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `timestamp` varchar(45) DEFAULT NULL,
+  `log_level` varchar(45) DEFAULT NULL,
+  `log_server_city_name` varchar(45) DEFAULT NULL,
+  `log_detail` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9625 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+//Önceki kafka logları temizlenir
+remove C:\tmp\kafka-logs\
+remove C:\tmp\zookeeper\version-2\ 
+
+//Kafka sunucuları başlatılır
+zookeeper-Server-start.bat ..\..\config\zookeeper.properties
+Kafka-Server-start.bat ..\..\config\Server.properties
+
+//LogProducer çalıştırılır
+*Log producer,
+2019-03-21 09:59:17.992 INFO Istanbul Hello-from-Istanbul
+2019-03-21 09:59:17.996 WARN Tokyo Hello-from-Tokyo
+2019-03-21 09:59:18.057 FATAL Moskow Hello-from-Moskow
+2019-03-21 09:59:18.992 DEBUG Beijing Hello-from-Beijing
+2019-03-21 09:59:20.073 ERROR London Hello-from-London
+paternine göre max 2mb'lık random veriler üretir
+
+//KafkaProducer çalıştırılır
+*Kafka Producer kafka sunucusu için log verilerini üretir
+*NuGet ile kafka-core eklenir
+
+//KafkaConsumer çalıştırılır
+*Verileri kafka sunucusuna girer,
+ve aynı zamanda verileri mysql içine insert eder
+*NuGet ile kafka-core eklenir
+
+**WinMPM kurulur, nginx ve php içerir
+//graph.php
+*php ve js ile son veritabanı kayıtlarının grafiğini çizer,
+grafik google line chart 'dır ve etkileşimlidir
+//log.php
+*devamlı şekilde realtime verileri listeler
+
+//grafana-6.1.3
+*grafana kurulur, mysql ile realtime dashboard oluşturulur.
