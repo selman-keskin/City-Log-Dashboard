@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kafkaConsumer_elastic", "kafkaConsumer_elastic\kafkaConsumer_elastic.csproj", "{849317D9-BC9A-4CDA-BF70-3449D5819C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849317D9-BC9A-4CDA-BF70-3449D5819C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849317D9-BC9A-4CDA-BF70-3449D5819C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849317D9-BC9A-4CDA-BF70-3449D5819C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849317D9-BC9A-4CDA-BF70-3449D5819C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A52DB83-ECBA-46A8-8466-2C5CC365F562}
+	EndGlobalSection
+EndGlobal

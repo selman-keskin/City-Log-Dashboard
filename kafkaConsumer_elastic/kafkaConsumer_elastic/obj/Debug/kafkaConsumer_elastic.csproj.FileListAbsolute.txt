@@ -1,0 +1,13 @@
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\kafkaConsumer_elastic.exe.config
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\kafkaConsumer_elastic.exe
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\kafkaConsumer_elastic.pdb
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\Elasticsearch.Net.dll
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\Nest.dll
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\Elasticsearch.Net.xml
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\Nest.xml
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\obj\Debug\kafkaConsumer_elastic.csprojAssemblyReference.cache
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\obj\Debug\kafkaConsumer_elastic.csproj.CoreCompileInputs.cache
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\obj\Debug\kafkaConsumer_elastic.csproj.CopyComplete
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\obj\Debug\kafkaConsumer_elastic.exe
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\obj\Debug\kafkaConsumer_elastic.pdb
+C:\Users\selman\source\repos\kafkaConsumer_elastic\kafkaConsumer_elastic\bin\Debug\kafka-net.dll
