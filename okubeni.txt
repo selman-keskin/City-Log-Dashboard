@@ -31,7 +31,7 @@ paternine göre max 2mb'lık random veriler üretir
 *NuGet ile kafka-core eklenir
 
 //KafkaConsumer çalıştırılır
-*Verileri kafka sunucusuna girer,
+*Kafka sunucusundaki verileri görüntüler,
 ve aynı zamanda verileri mysql içine insert eder
 *NuGet ile kafka-core eklenir
 
@@ -44,3 +44,20 @@ grafik google line chart 'dır ve etkileşimlidir
 
 //grafana-6.1.3
 *grafana kurulur, mysql ile realtime dashboard oluşturulur.
+* güncellenmesi için url'ye "&refresh=5m" eklenir.
+
+---------------->> Güncelleme
+
+//elasticsearch-5.6.10
+*Elastic search indrilir ve başlatılır.
+
+//kibana-5.4.0-windows-x86
+*Kibana indirilir ve başlatılır,
+*Elastic Search verileri grafikleştirilir, grafikler bende mevcut
+
+//kafkaConsumer_elastic çalıştırılır
+*Kafka sunucusundaki verileri görüntüler,
+ve aynı zamanda verileri elasticsearch içine indexler
+*NuGet ile kafka-core eklenir
+*NuGet ile Nest eklenir
+
