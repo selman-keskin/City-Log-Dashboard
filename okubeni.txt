@@ -34,6 +34,7 @@ paternine göre max 2mb'lık random veriler üretir
 *Kafka sunucusundaki verileri görüntüler,
 ve aynı zamanda verileri mysql içine insert eder
 *NuGet ile kafka-core eklenir
+*100 dosyadan fazla olduğundan, KafkaConsume.rar dosyası olarak eklenmiştir
 
 **WinMPM kurulur, nginx ve php içerir
 //graph.php
